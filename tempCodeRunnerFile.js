@@ -1,1 +1,1 @@
-deletebutton
+const adminCommands = require('./adminCommands');
